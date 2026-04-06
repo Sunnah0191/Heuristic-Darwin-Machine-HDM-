@@ -174,9 +174,8 @@ Full license: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ## Contact
 
-For research collaboration, licensing inquiries, or discussion:  
-**GitHub:** [@snk] *(update with your actual handle)*  
-**Email:** *(add your contact)*
+For research collaboration, licensing inquiries, or discussion:    
+**Email:** sunnatshainazarov10@gmail.com 
 
 ---
 
